@@ -1,0 +1,28 @@
+html,body
+{
+  background-color: black;
+}
+.bg {
+    background-image: url('https://images.pexels.com/photos/270348/pexels-photo-270348.jpeg?cs=srgb&dl=abstract-business-code-coder-270348.jpg&fm=jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    height: 100vh;
+}
+
+.scpbg {
+    /* background-image: url('Images/SCPBG.png'); */
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: fixed;
+    background-color: black;
+    background-attachment: fixed;
+    height: 100%;
+}
+
+.logo{
+  height: 60px;
+  padding-right: 15px;
+  padding-left: 5px;
+}
